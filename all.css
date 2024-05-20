@@ -1,0 +1,7 @@
+.header {
+    margin: 0 auto;
+    background: pink;
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+}
