@@ -5,3 +5,8 @@
     width: 300px;
     text-align: center;
 }
+
+.header p {
+    color: aqua;
+    font-size: 20px;
+}
